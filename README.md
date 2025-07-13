@@ -1,1 +1,1 @@
-# This is Assignment1: Personal Portfolio Website of VaultofCodes
+# This is Assignment 1 (Personal Portfolio Website) of VaultofCodes
